@@ -12,6 +12,8 @@ Assets/AssetStoreTools*
 
 [Bb]uild.zip
 
+*.meta
+
 # Visual Studio cache directory
 .vs/
 
