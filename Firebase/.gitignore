@@ -10,6 +10,8 @@
 .idea/
 Assets/AssetStoreTools*
 
+[Bb]uild.zip
+
 # Visual Studio cache directory
 .vs/
 
